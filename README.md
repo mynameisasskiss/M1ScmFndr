@@ -1,6 +1,6 @@
 # M1ScmFndr
 ## About script
-### ScmFndr - automation script for M1. This script will help you find the profile of a person who has the item you need (very useful for resellers and collectors) and will immediately open a link for exchange, so you can make a deal. AssKiss Studio is not responsible for any improper use of the script
+#### ScmFndr - automation script for M1. This script will help you find the profile of a person who has the item you need (very useful for resellers and collectors) and will immediately open a link for exchange, so you can make a deal. AssKiss Studio is not responsible for any improper use of the script
 ## System Requirements
 ### OS: Windows 7/8/10/11(You may need to install python 3.*.*)
 ### Internet connection required
