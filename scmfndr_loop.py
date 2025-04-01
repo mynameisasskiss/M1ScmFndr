@@ -254,18 +254,18 @@ def replaces(var):
     var = var.replace('/', '%2F')
     return var
 
-print(Fore.LIGHTWHITE_EX + 'ScmFndr. Made by AssKiss Studio https://github.com/AssKissStudio/M1ScmFndr')
-
-config()
-login()
-params()
-while True:
-    #refresh()
-    buffer = set()
-    try:
-        scmfndr()
-    except:
-        if c1 == 1:
-            refresh()
-        else:
-            error()
+if __name__ == "__main__":
+    print(Fore.LIGHTWHITE_EX + 'ScmFndr. Made by AssKiss Studio https://github.com/AssKissStudio/M1ScmFndr')
+    config()
+    login()
+    params()
+    while True:
+        #refresh()
+        buffer = set()
+        try:
+            scmfndr()
+        except:
+            if c1 == 1:
+                refresh()
+            else:
+                error()
